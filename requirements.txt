@@ -1,0 +1,3 @@
+ase
+matscipy
+ipywidgets==7.6.5
